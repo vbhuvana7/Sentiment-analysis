@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
-
-### BIA 660WS_Final Project_Team2: Names: Saroja Kondamudi, Bhuvana Vellanki, Ishan Desai
 
 
 from sklearn.metrics import accuracy_score
